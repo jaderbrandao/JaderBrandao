@@ -3,7 +3,7 @@
 Thanks to visit my github profile.
 
 
-## **Knowloedge**
+## **Knowledge**
 
 I would like to say that I love what I do, its my dream.
 I am work at Triscal Company
