@@ -6,7 +6,7 @@ Thanks to visit my github profile.
 I would like to say that I love what I do, its my dream.
 
 ## **Company**
-I am work at Triscal Company.
+I work at Triscal Company.
 
 ## **Knowledge**
 I am a C# Developer, and I've Knowloedge in API projects.
